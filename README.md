@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/money_pro">
+<a href="https://osx-get-software.github.io/.github/money_pro">
 <img src="https://img.shields.io/badge/💻_Get_Money_Pro-darkgreen?style=for-the-badge&logo=apple" alt="Get Money Pro">  
 </a>  
 </div>  
